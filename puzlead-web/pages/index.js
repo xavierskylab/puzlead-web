@@ -1,6 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
+import Home2 from '../pages/Home2';
 
 const Home = () => (
   <div>
